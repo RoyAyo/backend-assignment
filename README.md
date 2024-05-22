@@ -12,6 +12,7 @@ Welcome to our Movie Database Backend project! In this project, we're developing
 **TypeScript**: Bringing the benefits of strong typing and modern JavaScript features to our backend development.
 **PostgreSQL**: A robust and reliable relational database management system, ensuring data integrity and performance.
 **TypeORM**: A versatile ORM that simplifies database interactions and streamlines development with TypeScript support.
+
 <u>**Hexagonal Architecture Pattern**</u>: Structuring our application in a modular and maintainable way, promoting separation of concerns and testability.
 
 [PLEASE GO THROUGH THIS BLOG](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
