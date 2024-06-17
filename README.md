@@ -43,7 +43,6 @@ For testing the endpoints, no frontend is required. Postman or any API testing t
 
 Happy coding! 🚀
 
-
 ### Running the application:
 
 npm run test: To run end to end tests.
