@@ -13,7 +13,7 @@ export class GenresController {
   ) {}
 
   @Get('')
-  async findAll(@Body() body: CreateGenreDTO, @Res() res: Response) {
+  async findAll(@Res() res: Response) {
     const response = await this.genresService.findAll();
     return this.httpResponse.okResponse(res, '', response);
   }
